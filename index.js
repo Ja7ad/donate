@@ -1,4 +1,4 @@
-var address = "15jzoGzznm45SBTrydioXmhYewGbftfozi"; // The bitcoin address to receive donations. Change to yours
+var address = "bc1qa3wqwjjfagfzp4m8qzf537a0gsfwdk2hzje2ld"; // The bitcoin address to receive donations
 var popup = false; // Set to true if you want a popup to pay bitcoin
 var currencyCode = "USD"; // Change to your default currency. Choose from https://blockchain.info/ticker?cors=true
 var qrcode = true; // Set to false to disable qrcode
