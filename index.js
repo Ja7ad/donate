@@ -1,9 +1,9 @@
-var address = "bc1qa3wqwjjfagfzp4m8qzf537a0gsfwdk2hzje2ld"; // The bitcoin address to receive donations
-var popup = false; // Set to true if you want a popup to pay bitcoin
+var address = "15jzoGzznm45SBTrydioXmhYewGbftfozi"; // The bitcoin address to receive donations
+var popup = true; // Set to true if you want a popup to pay bitcoin
 var currencyCode = "USD"; // Change to your default currency. Choose from https://blockchain.info/ticker?cors=true
 var qrcode = true; // Set to false to disable qrcode
 var link = true; // Set to false to disable generating hyperlink
-var organization = "Javad Rajabzade"; // Change to your organization name
+var organization = "Javad Rajabzadeh"; // Change to your organization name
 var mbits = true; // Set to false to display bitcoin traditionally
 var defaultAmountToDonate = 5; // Default amount to donate
 var defaultCurrency = 'USD'; // Default currency to fallback
